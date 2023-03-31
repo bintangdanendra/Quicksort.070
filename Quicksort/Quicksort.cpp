@@ -1,10 +1,10 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int arr[20];																			// array of integres to hold veldes
 int cmp_count = 0;																		// number of comparasion
 int mov_count = 0;																		// number of data movement
-int n; 
+int n;
 
 void input() {
 	while (true)
