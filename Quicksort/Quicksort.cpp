@@ -70,7 +70,7 @@ void q_short(int low, int high)
 			j--;																		// Langkah Algoritma No. 8
 			cmp_count++;
 		}
-		cmp_count;
+		cmp_count; 
 
 		// if the greater element is on the left of the element
 		if (i < j)																		// Langkah Algoritma No. 9
