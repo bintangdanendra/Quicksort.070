@@ -3,7 +3,7 @@ using namespace std;
 
 int arr[20];																			// array of integres to hold veldes
 int cmp_count = 0;																		// number of comparasion
-int mov_count = 0;																		// number of data movement 
+int mov_count = 0;																		// number of data movement
 int n;
 
 void input() {
@@ -27,7 +27,7 @@ void input() {
 		cout << "<" << (i + 1) << ">";
 		cin >> arr[i];
 	}
-}
+} 
 
 
 // swaps the element st index x with the element at index y
